@@ -1,0 +1,30 @@
+3863.Code.zip contains the sample code for my book
+
+	.NET 2.0 for Delphi Programmers
+	
+(Apress, 2006) ISBN 1590593863 - <http://www.midnightbeach.com/.net>.
+Most of the projects are just little snippets that illustrate a single
+point but some of them are more substantial, and contain code that you
+might want to use in your own projects.
+
+You can freely use, modify, and distribute this source code PROVIDED 
+that you keep the copyright and contact info in every file you use.
+
+To install the sample code, just extract all the files to some directory
+like "My Documents\Shemitz" - this creates a 'local root' directory. When
+the book refers you to a project like the "Chapter11\RegexExplorer C# 
+project", you will find it in the Chapter11\RegexExplorer subdirectory of
+the directory that you extracted the files to.
+
+All the projects should compile, and all the executables should run -
+though some do require you to create data files by running other projects
+first. (Note that most of the C# projects require Visual Studio 2005, and
+can't be loaded in .NET 1.x environments.) If you run into any problems, 
+please feel free to contact me at mailto:jon@midnightbeach.com.
+
+I'm always glad to hear my readers' compliments, questions, and even 
+criticisms. Of course, I'm especially glad to hear offers of work - I make
+a living by programming, consulting, and training. For more information 
+on my professional services, please visit <http://www.midnightbeach.com>.
+
+-- Jon Shemitz, April 2006
